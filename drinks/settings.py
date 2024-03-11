@@ -86,7 +86,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'CLIENT':{
-            'host': 'mongodb+srv://wavezboy:Abdulfatah16@cluster0.7rxkrhf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
+            'host': '',
             'name':"DjangoDb",
             "authMechanism": "SCRAM-SHA-1" 
         }
